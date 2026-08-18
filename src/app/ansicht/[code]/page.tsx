@@ -88,7 +88,7 @@ export default function AnsichtPage() {
       <header className="flex items-center justify-between px-4 h-16 bg-surface/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-outline-variant/30 z-50 flex-shrink-0">
         <div className="flex items-center gap-3">
           <CalendarDays size={22} className="text-secondary" />
-          <h1 className="font-bold text-lg text-primary dark:text-gray-100">Stundenplan</h1>
+          <h1 className="font-bold text-lg text-primary dark:text-gray-100">Plandle</h1>
         </div>
         <div className="flex items-center gap-2 bg-secondary/10 text-secondary px-3 py-1.5 rounded-full">
           <Eye size={14} />

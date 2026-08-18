@@ -3,9 +3,9 @@ import "./globals.css";
 import { ThemeProvider } from "@/components/ThemeProvider";
 
 export const metadata: Metadata = {
-  title: "Stundenplan",
+  title: "Plandle",
   description: "Dein persönlicher digitaler Stundenplan – übersichtlich, modern und immer dabei.",
-  keywords: ["Stundenplan", "Schule", "Unterricht", "Wochenplan"],
+  keywords: ["Stundenplan", "Schule", "Unterricht", "Wochenplan", "Plandle"],
 };
 
 export const viewport: Viewport = {

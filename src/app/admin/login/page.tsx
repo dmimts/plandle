@@ -38,7 +38,7 @@ export default function AdminLoginPage() {
           <div className="w-14 h-14 bg-secondary rounded-2xl flex items-center justify-center mb-4 shadow-lg">
             <CalendarDays size={28} className="text-on-secondary" />
           </div>
-          <h1 className="text-2xl font-bold text-primary dark:text-gray-100">Stundenplan</h1>
+          <h1 className="text-2xl font-bold text-primary dark:text-gray-100">Plandle</h1>
           <p className="text-sm text-on-surface-variant mt-1">Admin-Bereich</p>
         </div>
 
